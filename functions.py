@@ -2,7 +2,7 @@ import json
 import pathlib
 from pathlib import Path
 
-path = Path(pathlib.Path.cwd(), 'data', 'data.txt')
+path = Path(pathlib.Path.cwd(), 'data.txt')
 with open(path) as file:
     data = json.loads(file.read())
 
