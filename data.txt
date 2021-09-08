@@ -1,0 +1,53 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "circles"
+        },
+        {
+            "id": 2,
+            "name": "lines"
+        },
+        {
+            "id": 3,
+            "name": "squares"
+        }
+    ],
+    "items": [
+        {
+            "name": "simple circle",
+            "category_id": 1,
+            "color": "black"
+        },
+        {
+            "name": "dotted line",
+            "category_id": 2,
+            "color": "red"
+        },
+        {
+            "name": "small circle",
+            "category_id": 1,
+            "color": "green"
+        },
+        {
+            "name": "special circle",
+            "category_id": 1,
+            "color": "red"
+        },
+        {
+            "name": "big square",
+            "category_id": 3,
+            "color": "pink"
+        },
+        {
+            "name": "simple square",
+            "category_id": 3,
+            "color": "black"
+        },
+        {
+            "name": "solid line",
+            "category_id": 2,
+            "color": "yellow"
+        }
+    ]
+}
